@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for-break\for-break\obj\Debug\for-break.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\for-break\for-break\obj\Debug\for-break.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\for-break\for-break\obj\Debug\for_break.Form1.resources
+C:\Users\User\source\repos\for-break\for-break\obj\Debug\for_break.Properties.Resources.resources
+C:\Users\User\source\repos\for-break\for-break\obj\Debug\for-break.csproj.GenerateResource.cache
+C:\Users\User\source\repos\for-break\for-break\obj\Debug\for-break.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\for-break\for-break\bin\Debug\for-break.exe.config
+C:\Users\User\source\repos\for-break\for-break\bin\Debug\for-break.exe
+C:\Users\User\source\repos\for-break\for-break\bin\Debug\for-break.pdb
+C:\Users\User\source\repos\for-break\for-break\obj\Debug\for-break.exe
+C:\Users\User\source\repos\for-break\for-break\obj\Debug\for-break.pdb
